@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/Fluriore-UI/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2neptunehub/Fluriore-UI/refs/heads/main/source.lua"))()
 
 local Window = Library:MakeGui({
     NameHub = "Example Hub", --your name hub
