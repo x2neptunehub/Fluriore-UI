@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/Fluriore-UI/main/source.lua"))()
 
 local Window = Library:MakeGui({
-    NameHub = "Example Hub",
+    NameHub = "Example Hub", --your name hub
     Description = "Fluriore UI Example",
     Color = Color3.fromRGB(255,0,255)
 })
